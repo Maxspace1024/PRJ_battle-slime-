@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">battlefield1008</string>
+    <string name="fight_final">Slim WIN</string>
+    <string name="fight_start">Fight!!</string>
+    <string-array name="slime_atk">
+        <item>sticky fluid</item>
+        <item>digestion</item>
+        <item>wrapping</item>
+    </string-array>
+</resources>
